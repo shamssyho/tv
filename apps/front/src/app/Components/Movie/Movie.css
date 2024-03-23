@@ -1,0 +1,13 @@
+.movie-item {
+    flex: 0 1 calc(20% - 40px);
+}
+
+.movie-img {
+    border-radius: 22px;
+}
+
+.container-item p {
+    position: absolute;
+    margin: 10px;
+
+}

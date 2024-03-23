@@ -1,0 +1,9 @@
+.item {
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    transform: translateX(0);
+}
+
+.item:hover {
+    transform: translateX(-7px);
+}

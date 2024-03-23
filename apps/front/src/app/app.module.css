@@ -1,1 +1,14 @@
-/* Your styles goes here. */
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.header-container {
+    display: flex !important;
+    flex-direction: row;
+}
